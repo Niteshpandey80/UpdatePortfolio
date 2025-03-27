@@ -120,7 +120,7 @@ var hl = gsap.timeline({
   scrollTrigger:{
     trigger:"#page5",
     scroller:".main",
-    start:"20% 50%",
+    start:"50% 50%",
     end:"90% 50%",
     scrub:2,
   }
