@@ -328,6 +328,7 @@ P{
 }
 #pagex-right p{
     margin-top: 2vw;
+    margin-left: 0.3vw;
     color:#b19c96;
 }
 #pagex-right button{
